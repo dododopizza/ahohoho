@@ -1,0 +1,25 @@
+.cb {
+    background-color: rgb(66, 66, 66) !important;
+}
+
+.cg {
+    background-color: rgb(99, 194, 35) !important;
+}
+
+.fl {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.flex-b-30 {
+    display: flex;
+    flex-basis: 33%;
+}
+
+.emb {
+    width: 100%;
+    background-color: gray;
+    padding-left: 50px;
+    padding-right: 678px;
+}
