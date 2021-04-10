@@ -9,12 +9,17 @@
 .fl {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.f1 {
+    display: flex;
     justify-content: space-around;
 }
 
 .flex-b-30 {
     display: flex;
-    flex-basis: 33%;
+    flex-basis: 30%;
 }
 
 .emb {
@@ -22,4 +27,31 @@
     background-color: gray;
     padding-left: 50px;
     padding-right: 678px;
+}
+
+.five {
+    width: 600px;
+    margin-right: 50px;
+}
+
+.i {
+    margin-bottom: 50px;
+}
+
+.fon {
+    width: 100%;
+    height: 0.1%;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-size: cover;
+    background-image: url("images/918ff13bb5e3a7f1.png");
+    background-position: center center;
+}
+
+.bg-ligth-rgba {
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+
+.body {
+    font-family: Bahnschrift !important;
 }
