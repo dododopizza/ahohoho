@@ -64,8 +64,8 @@
     background-color: rgba(255, 255, 255, 0) !important;
 }
 
-.body {
-    font-family: Bahnschrift !important;
+body {
+    font-family: 'Montserrat', sans-serif !important;
 }
 
 .pix32 {
@@ -73,7 +73,7 @@
 }
 
 .rig {
-    margin-left: 740px;
+    margin-left: 670px;
 }
 
 .fix {
