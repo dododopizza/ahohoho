@@ -16,6 +16,9 @@
 
 .flex-b-30:hover {
     background: linear-gradient(45deg, rgba(252, 249, 59, 0.685),rgba(248, 118, 101, 0.705));
+    -webkit-transform: scale(0.98,0.98);
+    -ms-transform: scale(0.98,0.98); 
+    transform: scale(0.98,0.98);
 }
 
 .fon {
@@ -57,4 +60,7 @@ body {
     -ms-transform: scale(1.1);
     transform: scale(1.1);
     color: rgb(253, 1, 1);
+}
+.jumbotron{
+    margin-bottom: 0 !important;
 }
